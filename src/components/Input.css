@@ -1,0 +1,18 @@
+.input {
+    height: 170px;
+    color: white;
+    text-align: end;
+    font-size: Arial, Helvetica, sans-serif;
+    padding-block-start: 10px;
+    padding-block-end: 5px;
+    padding-inline-end: 20px;
+}
+
+.result {
+    height: 70px;
+    font-size: 24px;
+}
+
+.text {
+    font-size: 18px;
+}

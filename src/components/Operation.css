@@ -1,0 +1,16 @@
+.calculator-buttons {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    background: hsl(195deg 9% 26%);
+    color: white;
+    flex: 1;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.calculator-buttons:hover {
+    filter: brightness(85%);
+}
